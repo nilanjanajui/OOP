@@ -1,7 +1,6 @@
 # Object-Oriented Programming
 ## Author: Nilanjana Das Jui
 ## Overview
-<br>
 Welcome to my Git Repository! This repository will contain all my assignments, practice problems, and classworks for the CSE-211 and CSE-212 course focused on Object-Oriented Programming (OOP) using Java.
 
 ## Repository Contents
