@@ -57,8 +57,7 @@ Welcome to the **ultimate Object-Oriented Programming (OOP) repository**!
 This section includes Java-based solutions to CP problems from platforms like:  
 
 ✅ LeetCode  
-✅ Codeforces  
-✅ AtCoder  
+✅ Codeforces   
 ✅ HackerRank  
 ✅ CodeChef  
 
@@ -70,10 +69,6 @@ Each problem is solved using OOP principles with an optimized approach and detai
 Some exciting projects included in this repository:  
 
 📌 Student Management System (Using OOP principles)  
-📌 Library Management System (Implementing Java Collections)  
-📌 Banking System (With Exception Handling)  
-📌 E-commerce Inventory (Using File Handling & Serialization)  
-📌 Multithreaded Chat Application (Using Java Networking & Threads)  
 
 ---
 
@@ -111,7 +106,8 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 💬 Feel free to connect with me on GitHub and check out my other projects! 🚀  
 🔗 **GitHub:** [Nilanjana Das Jui](https://github.com/nilanjanajui)  
 📧 **Email:** nilanjana.csecu@gmail.com  
-🔗 **LinkedIn:** [Nilanjana Das Jui](https://www.linkedin.com/in/nilanjana-jui-759402286)
+🔗 **LinkedIn:** [Nilanjana Das Jui](https://www.linkedin.com/in/nilanjana-jui-759402286)  
+
 🌟 If you found this useful, don’t forget to star ⭐ the repo!  
 
 Happy Coding! 🎯🔥
